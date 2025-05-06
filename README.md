@@ -1,4 +1,4 @@
-[![Steam Workshop|Colonist Bar Below Dev Buttons](https://img.shields.io/steam/subscriptions/2957222535?style=for-the-badge&logo=steam&label=Auto%20Training&labelColor=blue)](https://steamcommunity.com/sharedfiles/filedetails/?id=2957222535)
+[![Steam Workshop|Colonist Bar Below Dev Buttons](https://img.shields.io/steam/subscriptions/2957222535?style=for-the-badge&logo=steam&label=Colonist%20Bar%20Below%20Dev%20Buttons&labelColor=blue)](https://steamcommunity.com/sharedfiles/filedetails/?id=2957222535)
 [![Last Update Badge](https://img.shields.io/steam/update-date/2957222535?style=for-the-badge&label=Last%20update)](https://github.com/Tea-Cup/RW_ColonistBarBelowDevButtons/releases/latest)
 
 # ![Features](https://i.postimg.cc/zBzB6kTG/h-Features.png)
