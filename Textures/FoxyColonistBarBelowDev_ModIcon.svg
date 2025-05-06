@@ -1,0 +1,14 @@
+<svg version="1.1" width="32" height="32" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="32" height="32" fill="none" />
+
+  <path fill="none" stroke="white" fill-rule="evenodd" d="
+    M3,4 h16
+    M8,4 v22
+    M3,26 h16
+  " />
+  <rect x="13" y="7" width="16" height="16" fill="white" />
+  <rect x="15" y="9" width="12" height="1" fill="black" />
+  <rect x="15" y="12" width="12" height="1" fill="black" />
+  <rect x="15" y="15" width="8" height="1" fill="black" />
+  <rect x="15" y="18" width="10" height="1" fill="black" />
+</svg>
