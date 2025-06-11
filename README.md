@@ -23,6 +23,10 @@ And maybe others. Feel free to report incompatible mods.
 
 # ![Changelog](https://i.postimg.cc/k4T4mtyF/h-Changelog.png)
 
+#### 12.06.25
+
+- 1.6.**4488** support.
+
 #### 21.03.24
 
 - 1.5 support
